@@ -7,8 +7,8 @@ Users balance is displayed at the bottom of the page.
 To start add API_KEY and API_SECRET in .config.py file.
 
 Download all requiremnts with 
-'
+```
 pip3 install -r requirements.txt
-'
+```
 
 
